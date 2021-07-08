@@ -5,3 +5,5 @@
 
 
 [![ChinHongTan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChinHongTan)](https://github.com/ChinHongTan&show_icons=true*theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinHongTan)](https://github.com/ChinHongTan&show_icons=true*theme=algolia)
+
