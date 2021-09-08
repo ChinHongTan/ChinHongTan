@@ -5,3 +5,5 @@
 
 [![ChinHongTan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChinHongTan&show_icons=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=050F2C)](https://github.com/ChinHongTan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinHongTan&show_icons=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=050F2C&layout=compact)](https://github.com/ChinHongTan)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChinHongTan&theme=dark)](https://git.io/streak-stats)
